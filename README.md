@@ -1,4 +1,8 @@
-## Hi there 👋
+# My name is David Namenyi 
+
+-🌱 I’m currently learning C++, C#, Javascript, and Tailwind CSS
+- ⚡ Fun fact: I enjoy producing music and am skilled in Ableton Live and Xfer Serum
+- 📫 How to reach me: dnamenyi@outlook.com
 
 <!--
 **dnamenyi/dnamenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
